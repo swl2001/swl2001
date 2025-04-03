@@ -1,26 +1,13 @@
-## Hi there 👋
+## Hi, you can catch sunwl here 👋
 
-<!--
-**swl2001/swl2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Languages: Python, C++, a bit of Fortran (still learning!)  
+- 🔬 Interests: Quantum computing, electronic structure methods, numerical optimization  
+- 🔭 Based in Nanjing  
+- 🌱 Currently a graduate student in physical chemistry  
+- 👯 Woking hard on quantum program development  
+- 🤔 So much to learn ... 
+- 💬 Blog: ... (Coming soon)  
+- 📫 Reach me at: wlsun@smail.nju.edu.cn  
+- 😄 When not coding: Basketball 🏀, swimming 🏊, and JRPGs 🎮 (and much more!)
+- ⚡ Fun fact: You’ll find out soon in my blog 😏  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- 🔭 
-- 🌱 Physical chemistry graduate student currently.
-- 👯 
-- 🤔 
-- 💬 
-- 📫 Email: wlsun@smail.nju.edu.cn
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
