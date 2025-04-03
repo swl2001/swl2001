@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 👯 
 - 🤔 
 - 💬 
-- 📫 wlsun@smail.nju.edu.cn
+- 📫 Email: wlsun@smail.nju.edu.cn
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
