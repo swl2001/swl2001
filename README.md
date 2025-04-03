@@ -23,7 +23,7 @@ This is swl2001 —— Wenlong Sun(孙文龙):
 - 👯 Woking hard on quantum program development  
 - 🤔 So much to learn ... 
 - 💬 Blog: ... (Coming soon)  
-- 📫 Reach me at: wlsun@smail.nju.edu.cn  
+- 📫 Email: wlsun@smail.nju.edu.cn  
 - 😄 When not coding: Basketball 🏀, swimming 🏊, and JRPGs 🎮 (and much more!)
 - ⚡ Fun fact: You’ll find out soon in my blog 😏  
 
